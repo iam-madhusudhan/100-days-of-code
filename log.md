@@ -6,3 +6,8 @@
 
 **Thoughts:** It's been a little challenging to solve the kata and assimilate the javascript concepts but I'm enjoying it.
 
+### Day 02: December 02, 2017
+
+**Today's Progress**: Played with flexboxfroggy, done some freecodecamp questions on javascript. 
+
+**Thoughts:** Felt really hard to get to work on weekend. No matter how slow I should be consistent.
