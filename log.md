@@ -11,3 +11,9 @@
 **Today's Progress**: Played with flexboxfroggy, done some freecodecamp questions on javascript. 
 
 **Thoughts:** Felt really hard to get to work on weekend. No matter how slow I should be consistent.
+
+### Day 03: December 03, 2017
+
+**Today's Progress**: Read about javascript objects. solved freecodecamp questions. 
+
+**Thoughts:** It's been a lazy day. Need more dedication. 
