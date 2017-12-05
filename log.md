@@ -17,3 +17,15 @@
 **Today's Progress**: Read about javascript objects. solved freecodecamp questions. 
 
 **Thoughts:** It's been a lazy day. Need more dedication. 
+
+### Day 04: December 04, 2017
+
+**Today's Progress**: Learnt some basics of CSS animation and more on Javascript objects. 
+
+**Thoughts:** updated on twitter but forgot to update on github!!. 
+
+### Day 05: December 05, 2017
+
+**Today's Progress**: Today was well spent doing activities that I like. practiced flexbox and getting more interested in the power of CSS.
+
+**Thoughts:**  Somethings are going under the hood. I'm excited how it all turns out. 
