@@ -29,3 +29,11 @@
 **Today's Progress**: Today was well spent doing activities that I like. practiced flexbox and getting more interested in the power of CSS.
 
 **Thoughts:**  Somethings are going under the hood. I'm excited how it all turns out. 
+
+### Day 05: December 06, 2017
+
+**Today's Progress**: Today also I practiced flexbox on codepen. It's fun working with CSS.
+
+**Thoughts:**  It took some time get hold on box-shadow. Things are changing rapidly in life.
+
+**Link to work:** https://codepen.io/iam-madhusudhan/full/YEbKXX/
