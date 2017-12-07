@@ -30,10 +30,19 @@
 
 **Thoughts:**  Somethings are going under the hood. I'm excited how it all turns out. 
 
-### Day 05: December 06, 2017
+### Day 06: December 06, 2017
 
 **Today's Progress**: Today also I practiced flexbox on codepen. It's fun working with CSS.
 
 **Thoughts:**  It took some time get hold on box-shadow. Things are changing rapidly in life.
 
 **Link to work:** https://codepen.io/iam-madhusudhan/full/YEbKXX/
+
+### Day 07: December 07,2017
+
+**Today's Progress**: A day well spent working on CSS animation basics and javascript basic data manipulation.
+
+**Thoughts**: It was fun trying to learn javascript in a way that I have never been before.
+
+**Link to work**:1)Issue tracker storing values in browsers local storage- https://codepen.io/iam-madhusudhan/full/QORzEb/
+                 2)Animated Heart Beat- https://codepen.io/iam-madhusudhan/full/JOqawm/
